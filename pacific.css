@@ -1,19 +1,19 @@
 * { box-sizing: border-box; }
 body { 
-background-color: #EAEAEA;
+background-color: #90C7E3;
 color: #666666;
 font-family: Verdana, Arial, sans-serif;
+margin: 0;
 }
-#wrapper { 
-background-color: #FFFFFF;
-background-image: linear-gradient(to bottom, #FFFFFF, #90C7E3);
-background-repeat: no-repeat; 
-margin-left: auto;
-margin-right: auto;
-width: 80%;
-min-width: 960px;
-max-width: 2048px;
-box-shadow: 3px 3px 3px #777;
+#wrapper { background-color: #FFFFFF; }
+header {
+background-color: #002171;
+color: #FFFFFF;
+font-family: Georgia, serif;
+padding: 1em;
+}
+header a { text-decoration: none; }
+header a:link 
 }
 header { 
 background-color: #002171;
