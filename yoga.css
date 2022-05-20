@@ -54,7 +54,7 @@ margin: 0;
 }
 nav li {
 display: inline;
-padding: 0.1em;
+padding: 0 1em;
 width: 40%;
 }
 #mathero {
