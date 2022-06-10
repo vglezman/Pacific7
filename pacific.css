@@ -89,6 +89,18 @@ font-style: italic;
 padding: 1em;
 text-align: center;
 }
+table {
+margin:auto;
+width:90;
+border-collapse: collapse;
+}
+td, th {
+padding: 5px;  
+border: 1px solid #3399CC;  
+}  
+td { text-align: center;}
+.text {text-align: left;}
+tr:nth-of-type(even) { background-color: #F5FAFC;}
 @media (min-width: 600px) {
 h1 {
 font-size: 2em;
